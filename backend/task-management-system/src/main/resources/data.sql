@@ -1,0 +1,2 @@
+INSERT INTO TASK (NAME, DESCRIPTION, PRIORITY, COMPLETED) VALUES ('Task 1', 'Description 1', 'High', false);
+INSERT INTO TASK (NAME, DESCRIPTION, PRIORITY, COMPLETED) VALUES ('Task 2', 'Description 2', 'Medium', true);
